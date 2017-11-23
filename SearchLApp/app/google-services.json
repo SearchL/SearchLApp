@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "561365299029",
+    "firebase_url": "https://workcomm-f85ad.firebaseio.com",
+    "project_id": "workcomm-f85ad",
+    "storage_bucket": "workcomm-f85ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561365299029:android:54d0fbe95d15da66",
+        "android_client_info": {
+          "package_name": "com.eduardo.workcomm.workcomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561365299029-f97peeh26s4cnjhkm95av0er12o49a2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Qo7_mw2isOwKzXD7JMihbZ1ERbpUY-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
